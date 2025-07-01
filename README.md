@@ -10,11 +10,13 @@ Este proyecto analiza la resistencia de probetas de hormigón utilizando técnic
 ## 🔬 Análisis Realizado
 
 ### Regresión Lineal Univariante
+
 - Análisis de correlación entre variables
 - Modelo usando únicamente la variable "cement"
 - Métricas de evaluación (R², MSE, MAE)
 
 ### Regresión Lineal Multivariante
+
 - Modelo usando todas las variables disponibles
 - Análisis de normalización de datos
 - Evaluación de multicolinealidad (VIF)
